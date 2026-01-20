@@ -1,26 +1,47 @@
-# LeetCode Pandas Solutions
+# LeetCode Problems — Haroon K M
 
-This repository contains clean and optimized solutions to **LeetCode Pandas problems** using **Python and Pandas**.
-
-The goal is to practice real-world data manipulation concepts such as filtering, grouping, joins, aggregations, and DataFrame transformations commonly used in data analytics and machine learning workflows.
-
-## Tech Stack
-- Python
-- Pandas
-
-## What This Repository Covers
-- DataFrame creation and indexing
-- Filtering and conditional logic
-- GroupBy and aggregation
-- Joins and merges
-- Sorting and reshaping data
-- Interview-oriented Pandas patterns
-
-## Purpose
-- Strengthen Pandas fundamentals
-- Prepare for data analyst / ML interviews
-- Maintain a personal progress tracker for LeetCode
+Welcome to my LeetCode problem solving repository!  
+This repo documents my consistent practice of **Data Structures & Algorithms (DSA)** through daily challenges and topic-wise problems on LeetCode.
 
 ---
 
-Feel free to star this repository if you find it useful.
+## LeetCode Badges & Achievements
+<br>
+
+> Badges earned through monthly challenges and consistency on LeetCode.
+
+
+<p align="center">
+  
+  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="180"/>
+  
+</p>
+
+---
+<br>
+
+## What You'll Find in This Repository
+
+- Easy, Medium & Hard level problems
+- Python / SQL / Pandas-based solutions (as per problem)
+- Optimized approaches with clean code
+- Topic-wise problem coverage
+
+### Topics Practiced
+- Pandas Data Structure
+- Data Inspection
+- Data Selecting
+- Data Cleaning
+- Table Reshaping
+- Pandas Advanced Techniques
+  
+---
+
+## Repository Structure
+
+```
+LeetCode/
+│
+├── Pandas/
+
+
